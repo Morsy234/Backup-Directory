@@ -1,0 +1,18 @@
+source:
+total 16
+drwxrwxr-x 2 mohamedmorsy mohamedmorsy 4096 أكت 22 12:17 kkkk
+drwxrwxr-x 2 mohamedmorsy mohamedmorsy 4096 أكت 22 12:10 mm
+drwxrwxr-x 2 mohamedmorsy mohamedmorsy 4096 أكت 22 12:12 mmmm
+drwxrwxr-x 2 mohamedmorsy mohamedmorsy 4096 أكت 22 12:12 mmmmmm
+
+source/kkkk:
+total 0
+
+source/mm:
+total 0
+
+source/mmmm:
+total 0
+
+source/mmmmmm:
+total 0
